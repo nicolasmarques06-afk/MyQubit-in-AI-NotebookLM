@@ -1,4 +1,6 @@
 # MyQubit-NotebookLM
+
+https://notebooklm.google.com/notebook/6e0c1339-9df6-49c8-96cd-19aa6bdf64ae
 ............................................................................................................................................................................
 
 Olá, eu sou Nicolas Marques. Atualmente, estou graduando em Ciência da Computação pela Fundação Santo André, buscando integrar meus conhecimentos em tecnologia para criar soluções que otimizem processos e abram portas para inovções.
